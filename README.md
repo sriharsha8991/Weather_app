@@ -16,6 +16,7 @@ You can install the required packages using the following command:
 pip install requests
 ```
 
+
 ### Usage
 
 1. Clone this repository or download the `weather_app.py` file.
